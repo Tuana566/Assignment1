@@ -1,9 +1,9 @@
 # Assignment1
 Assignment 1
 
-|Group Members|
-|-------------|
-|Tuana Uludağ|
-|Cemre Kefeli|
-|Zhamilya Rakhym|
-|Ahmet Kenan Balıkçı|
+|Group Members|Account Names|
+|-------------|-------------|
+|Tuana Uludağ|Tuana566|
+|Cemre Kefeli|cemrekefeli|
+|Zhamilya Rakhym|zhamilyar|
+|Ahmet Kenan Balıkçı|kenanusws|
