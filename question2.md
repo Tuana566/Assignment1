@@ -17,3 +17,9 @@ exon2 = "GCTAAATCCGA"
 stop_codon = "TAA"
 three_prime_UTR = "TATCGCTAAAAAAA"
 
+my_fav_gene = promoter + five_prime_UTR + start_codon + exon1 + \
+              intron + exon2 + stop_codon + three_prime_UTR
+
+print("My favourite gene sequence is as follows:")
+print(my_fav_gene)
+
