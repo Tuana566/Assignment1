@@ -13,6 +13,5 @@ choosing variable names!
 boolean_var = True
 float_var = 5.25
 int_var = 18
-string_var = "Hello World!"
-null_var = None
+
 '''
